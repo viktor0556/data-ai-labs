@@ -1,0 +1,20 @@
+alma
+# ez komment
+   körte   
+     
+barack
+   # komment whitespace előtt
+szilva
+banán
+     
+# még egy komment
+   ananász
+mangó   
+      
+eper
+# 
+   #   
+citrom
+lime
+   narancs
+mandarin
